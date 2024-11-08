@@ -1,0 +1,57 @@
+/* Personalización de los colores pastel */
+.btn-pastel-venta {
+    background-color: #ffb3b3;
+    /* Pastel rojo */
+}
+
+.btn-pastel-producto {
+    background-color: #b3e0ff;
+    /* Pastel azul */
+}
+
+.btn-pastel-stock {
+    background-color: #b3ffcc;
+    /* Pastel verde */
+}
+
+.btn-pastel-cliente {
+    background-color: #ffb3e6;
+    /* Pastel rosa */
+}
+
+.btn-pastel-estadisticas {
+    background-color: #ffffb3;
+    /* Pastel amarillo */
+}
+.btn-pastel-venta:hover {
+    background-color: #fd8484;
+    /* Pastel rojo */
+}
+
+.btn-pastel-producto:hover {
+    background-color: #82cdff;
+    /* Pastel azul */
+}
+
+.btn-pastel-stock:hover {
+    background-color: #6bfd9b;
+    /* Pastel verde */
+}
+
+.btn-pastel-cliente:hover {
+    background-color: #ff91da;
+    /* Pastel rosa */
+}
+
+.btn-pastel-estadisticas:hover {
+    background-color: #fdfd64;
+    /* Pastel amarillo */
+}
+
+/* Asegurarse de que los botones sean grandes */
+.btn {
+    color: #000;
+    font-size: 1.25rem;
+    padding: 20px 40px;
+    width: 100%;
+}
